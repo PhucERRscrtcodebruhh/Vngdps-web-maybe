@@ -1,4 +1,4 @@
-body{ background: linear-gradient(to bottom ,#a2ccfc,#ac54f3);
+body{ background: linear-gradient(to bottom ,#a2ccfc,#ac54f3);background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif; 
 height: 240vh;
     display: flex;
