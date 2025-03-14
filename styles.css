@@ -11,9 +11,9 @@ height: 250vh;
     flex-direction: column;
 }
 
-.center{ margin: auto;text-align: center;}
+.center{ margin: auto;text-align: center;font-size: 5vh,5vw;}
 
-.navbar{background-color: #313961;padding: 15px 35px;display: flex; justify-content: space-between; align-items: center;text-align: center;bottom: 2px;float: left;}
+.navbar{background-color: #313961;padding: 2.5vw 35vh;display: flex; justify-content: space-between; align-items: center;text-align: center;bottom: 2px;;}
 .navbar ul {
     list-style: none;
     margin: 0;
@@ -21,13 +21,13 @@ height: 250vh;
   }
   
   .navbar li {
-    display: flex;
-    margin-right: 60px;
+    display: inline-block;
+    margin-right: 6vw;
   }
   
   .navbar a {
     color: #fff;
-    text-decoration: none;
+    text-decoration: none;font-size: 3vh;
   }
   
   .navbar a:hover { color: #ccc;}
